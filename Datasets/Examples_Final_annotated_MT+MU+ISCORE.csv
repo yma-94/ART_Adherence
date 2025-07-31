@@ -1,0 +1,31 @@
+﻿Question Num,Text,Barriers,Triage level
+1MT_0326,"Sorry , I need to ask , are you actually a bot ?",8 - None,4 - None
+1MT_0668,can i get a test to know my viral load,7 - Your health,3 - Low
+1MT_0796,Why is consistent medication adherence crucial for managing HIV ?,1 - Your thoughts and feelings,2 - Medium
+1MT_1019,"i forgot to take my dose on time , will i be ok ?",2 - Your habits and activities,2 - Medium
+1MT_1505,i skipped my prezista many times these last months,2 - Your habits and activities,1 - High
+1MT_3116,"I had a rough night 's sleep yesterday , could it be my Biktarvy ?",5 - Your medication,2 - Medium
+1MT_2763,I often feel unmotivated to take my meds,1 - Your thoughts and feelings,1 - High
+1MT_1702,can i go on a trip to United States with my medication,3 - Your social situation,2 - Medium
+1MT_3837,Where can i get a prescription for PrEP ?,6 - Your care,2 - Medium
+1MT_0657,How do I ensure I 'm maintaining an undetectable viral load ?,7 - Your health,3 - Low
+3ISCORE_0013,"I ' ve never had any problems , any side effects .",5 - Your medication,4 - None
+3ISCORE_0062,"Because I was at 116 kilos , I do n't know what it is in pounds , but it was a lot and I felt heavy , I felt like I had a ton on me .",7 - Your health,3 - Low
+3ISCORE_3375,And it ' s really pushing me back from a lot of medication .,1 - Your thoughts and feelings,1 - High
+3ISCORE_4357,"I mean , I still do drinking once in a while but maybe a few hours before I take my meds",2 - Your habits and activities,3 - Low
+3ISCORE_4909,"I was on unemployment , so I was n't on my employer ' s insurance , but I did n't know that I could be on RAMQ at $ 80 a month .",4 - Your econimic situation,1 - High
+3ISCORE_6004,"My biggest concern with being able to take my meds or not taking my meds is travel and the fact that taking your meds with you can reveal that you know , if you cross the border and they have issues with people positive crossing the border .",3 - Your social situation,2 - Medium
+3ISCORE_4888,"It happened once , in 2 days , because I ran out of medications , and it was the weekend , and the pharmacy was complicated .",6 - Your care,1 - High
+3ISCORE_5189,"it ' s in , in the corner of , in the corner of L 'assomption the pharmacy , no , she did n't have it ' s not something that had , in the back that kept in stock pharmacy there .",6 - Your care,2 - Medium
+3ISCORE_0018,I ' ve never had any problems .,8 - None,4 - None
+3ISCORE_5598,"So , It ' s difficult taking your pills when you ' re alone .",3 - Your social situation,2 - Medium
+4MU_1031,Is any problem taking antibiotics after having my regular medication ?,5 - Your medication,2 - Medium
+4MU_1029,Is any amount of alcohol ok to consume ?,2 - Your habits and activities,3 - Low
+4MU_1032,Is breastfeeding good while on Art ' s ?,7 - Your health,2 - Medium
+4MU_1069,Is there a cure for HIV in early stages ?,1 - Your thoughts and feelings,3 - Low
+4MU_2296,I am active on Hangout .,2 - Your habits and activities,3 - Low
+4MU_1210,One of the problem is financial constraints,4 - Your econimic situation,1 - High
+4MU_0364,Can I change my medication by another medication for one time if I don ’ t have any left .,6 - Your care,1 - High
+4MU_1389,The Police can stop me for my medication ?,3 - Your social situation,2 - Medium
+4MU_1063,Is pot safe with my treatment,2 - Your habits and activities,3 - Low
+4MU_1345,"Switch to French , please",8 - None,4 - None

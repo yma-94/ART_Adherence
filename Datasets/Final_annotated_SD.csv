@@ -1,0 +1,701 @@
+﻿Question Num,Text,Barriers,Triage level
+5SD_0001,"I can't afford my medication this month, and I've already missed several doses.",4 - Your econimic situation,1 - High
+5SD_0002,"I lost my job, and now I have no way to pay for my prescriptions.",4 - Your econimic situation,1 - High
+5SD_0003,"The rent increased, and I had to choose between paying it or buying my meds.",4 - Your econimic situation,1 - High
+5SD_0004,I've been skipping doses because I can't keep up with the cost.,4 - Your econimic situation,1 - High
+5SD_0005,"Due to unpaid bills, I have no way to refill my medication right now.",4 - Your econimic situation,1 - High
+5SD_0006,"My housing situation is unstable, and I lost access to my medication.",4 - Your econimic situation,1 - High
+5SD_0007,"I got evicted by the house owner , and I can't find a way to continue my treatment.",4 - Your econimic situation,1 - High
+5SD_0008,"I'm unable to afford even basic groceries, let alone my meds.",4 - Your econimic situation,1 - High
+5SD_0009,"I had to sell my belongings to buy medication, but it's not sustainable.",4 - Your econimic situation,1 - High
+5SD_0010,I missed my pharmacy visit because I didn't have enough for transportation.,4 - Your econimic situation,1 - High
+5SD_0011,"Money is tight this month, but I managed to get a partial refill for now.",4 - Your econimic situation,1 - High
+5SD_0012,"The cost of medication is a big strain, but I'm making it work somehow.",4 - Your econimic situation,2 - Medium
+5SD_0013,I had to ask my family for help to afford my treatment.,4 - Your econimic situation,2 - Medium
+5SD_0014,"I've been late on payments, but I'm trying to prioritize my health.",4 - Your econimic situation,2 - Medium
+5SD_0015,"Pills are expensive, and it's hard to keep up with my treatment, but I'm trying it hard.",4 - Your econimic situation,2 - Medium
+5SD_0016,"I'm struggling financially, but my medications are still a priority.",4 - Your econimic situation,2 - Medium
+5SD_0017,I often worry about whether I can keep affording my treatment long-term.,4 - Your econimic situation,1 - High
+5SD_0018,"I juggle between rent and medication, which causes constant stress.",4 - Your econimic situation,1 - High
+5SD_0019,I was almost late on my dose because my pharmacy was waiting for payment.,4 - Your econimic situation,2 - Medium
+5SD_0020,I had to borrow money to refill my prescription this month.,4 - Your econimic situation,2 - Medium
+5SD_0021,"While the cost is high, I've managed to keep up with my prescriptions.",4 - Your econimic situation,3 - Low
+5SD_0022,"I can afford my medication for now, but rising prices are concerning.",4 - Your econimic situation,3 - Low
+5SD_0023,"My job pays enough for now, but I still live paycheck to paycheck.",4 - Your econimic situation,3 - Low
+5SD_0024,"Prices go crazy nowdays and it's tough balancing finances, but so far so good",4 - Your econimic situation,3 - Low
+5SD_0025,"Sometimes I worry about unexpected expenses, but I plan around my meds.",4 - Your econimic situation,3 - Low
+5SD_0026,"Budgeting is tight, but it hasn't impacted my life yet.",4 - Your econimic situation,3 - Low
+5SD_0027,I've cut back on other expenses to make sure I can afford my meds.,4 - Your econimic situation,3 - Low
+5SD_0028,"My financial situation isn't perfect, but my health remains my priority.",4 - Your econimic situation,3 - Low
+5SD_0029,"Paying bills can be stressful, but I haven't let it affect my treatment.",4 - Your econimic situation,3 - Low
+5SD_0030,"With rising costs, I'm keeping a close eye on my budget to stay on track.",4 - Your econimic situation,3 - Low
+5SD_0031,"My finances are stable, and I've never had issues getting my medication.",4 - Your econimic situation,4 - None
+5SD_0032,"Thankfully, I have insurance that covers most of the medication costs.",4 - Your econimic situation,4 - None
+5SD_0033,I've always been able to prioritize my health and medication without issue.,4 - Your econimic situation,4 - None
+5SD_0034,My budget allows me to afford my treatment without any problems.,4 - Your econimic situation,4 - None
+5SD_0035,"Housing and finances are secure, so I can focus on my health.",4 - Your econimic situation,4 - None
+5SD_0036,I've had no difficulty paying for prescriptions or treatment.,4 - Your econimic situation,4 - None
+5SD_0037,It's a relief to have steady income and no worries about medication.,4 - Your econimic situation,4 - None
+5SD_0038,I feel fortunate that I can comfortably afford everything I need for my care.,4 - Your econimic situation,4 - None
+5SD_0039,Cost has never been an issue for me when it comes to my medication.,4 - Your econimic situation,4 - None
+5SD_0040,"I'm in a good financial place, and my adherence has never been disrupted.",4 - Your econimic situation,4 - None
+5SD_0041,"Lately, I've been struggling to pay my rent because I lost my job, and it's making it hard to afford my medication co-pays. I always skip doses to save money.",4 - Your econimic situation,1 - High
+5SD_0042,"I recently lost my housing, and now I live in a car. It's hard to keep my medication in good condition or remember to take it regularly.",4 - Your econimic situation,1 - High
+5SD_0043,"I am currently homeless, and it's very difficult to keep track of my medication schedule or store my pills securely.",4 - Your econimic situation,1 - High
+5SD_0044,"I'm behind on paying my bills, which makes me anxious about my housing stability and medication access.",4 - Your econimic situation,1 - High
+5SD_0045,"I am currently in a shelter, which makes it hard to keep my medication organized and accessible.",4 - Your econimic situation,1 - High
+5SD_0046,"Because of ongoing rent issues, I sometimes skip taking my medication to save money.",4 - Your econimic situation,1 - High
+5SD_0047,"Losing my housing has made it very difficult to keep track of my medication, and I forget doses several times because of this.",4 - Your econimic situation,1 - High
+5SD_0048,"Because I am homeless, I often have trouble storing and remembering to take my medication.",4 - Your econimic situation,1 - High
+5SD_0049,Housing instability is causing me anxiety about my treatment routine.,4 - Your econimic situation,2 - Medium
+5SD_0050,Lack of stable housing makes it difficult to store and take my medications regularly.,4 - Your econimic situation,1 - High
+5SD_0051,"I've recently become homeless, which makes medication management very challenging.",4 - Your econimic situation,1 - High
+5SD_0052,Losing my housing could soon affect my ability to take medications consistently.,4 - Your econimic situation,1 - High
+5SD_0053,"I'm worried about my finances because I have mounting medical bills, but I haven't missed any doses of my medication.",4 - Your econimic situation,3 - Low
+5SD_0054,"Due to recent financial hardships, I sometimes have to choose between paying for food or my medication, but I always manage to take my meds on time.",4 - Your econimic situation,3 - Low
+5SD_0055,"My housing situation is stable, but I worry about future costs of treatment as my income is limited.",4 - Your econimic situation,2 - Medium
+5SD_0056,"My financial situation is tight, but I am managing to take my medication as prescribed.",4 - Your econimic situation,3 - Low
+5SD_0057,"My income is limited, but I prioritize my medication and haven't missed any doses.",4 - Your econimic situation,3 - Low
+5SD_0058,"My income is low, but I am committed to taking my medication as prescribed.",4 - Your econimic situation,3 - Low
+5SD_0059,"My housing situation is unstable; I recently moved into temporary shelter, which makes managing my medication schedule challenging.",4 - Your econimic situation,2 - Medium
+5SD_0060,"My income has decreased significantly, and I am worried about affording my treatment, but I haven't missed any doses yet.",4 - Your econimic situation,3 - Low
+5SD_0061,"Financial issues have made it tough to refill my prescriptions on time, and I sometimes delay taking my medication.",4 - Your econimic situation,2 - Medium
+5SD_0062,"Because of my financial struggles, I sometimes skip my medication, but I don't think it's affecting my health right now.",4 - Your econimic situation,2 - Medium
+5SD_0063,"Due to financial constraints, I sometimes ration my medication, but I try to take it regularly.",4 - Your econimic situation,2 - Medium
+5SD_0064,"I am worried about losing my housing soon, which could interfere with my medication routine.",4 - Your econimic situation,2 - Medium
+5SD_0065,"Financial difficulties have caused me to delay refilling my prescriptions, but I haven't missed doses.",4 - Your econimic situation,3 - Low
+5SD_0066,"Struggling with bills, I worry about affording my medications, but I haven't had to miss any doses yet.",4 - Your econimic situation,3 - Low
+5SD_0067,"Due to rent increases, I am feeling stressed about maintaining my medication routine.",4 - Your econimic situation,2 - Medium
+5SD_0068,"Financial hardship has caused me to ration my medication doses, but I haven't missed any doses.",4 - Your econimic situation,3 - Low
+5SD_0069,"My housing situation is precarious, and I worry it might interfere with my treatment schedule.",4 - Your econimic situation,2 - Medium
+5SD_0070,Rising rent and utility bills are making it hard to keep up with my medication schedule.,4 - Your econimic situation,2 - Medium
+5SD_0071,"My financial problems have led me to skip doses sometimes, but I am trying to stay consistent.",4 - Your econimic situation,2 - Medium
+5SD_0072,"I manage my medication well despite financial difficulties, but I worry about future costs.",4 - Your econimic situation,3 - Low
+5SD_0073,"Due to ongoing rent issues, I sometimes miss doses, but I try to catch up quickly.",4 - Your econimic situation,2 - Medium
+5SD_0074,"My housing is stable, but I worry about upcoming the inflation, is it gonna affecting my treatment? ",4 - Your econimic situation,3 - Low
+5SD_0075,"Financial hardship has led to rationing pills, but I haven't missed doses yet.",4 - Your econimic situation,3 - Low
+5SD_0076,Rising costs have made me anxious about maintaining my medication routine.,4 - Your econimic situation,2 - Medium
+5SD_0077,"Financial difficulties are causing me to delay medication refills, but I haven't missed doses.",4 - Your econimic situation,3 - Low
+5SD_0078,"My rent has increased, but I am managing my medication routine without issues so far.",4 - Your econimic situation,3 - Low
+5SD_0079,"My income is stable, and I have no current financial issues affecting my medication adherence.",4 - Your econimic situation,4 - None
+5SD_0080,"My housing situation is secure, and I am able to follow my medication schedule without issues.",4 - Your econimic situation,4 - None
+5SD_0081,"I have stable housing and income, so I don't have any financial barriers to medication adherence.",4 - Your econimic situation,4 - None
+5SD_0082,I am currently in a stable housing situation and have no issues with medication access.,4 - Your econimic situation,4 - None
+5SD_0083,"My financial situation is improving, and I am able to adhere to my medication schedule without issues.",4 - Your econimic situation,4 - None
+5SD_0084,"I have stable housing and income, so I do not face financial barriers to my treatment.",4 - Your econimic situation,4 - None
+5SD_0085,"My housing situation is secure, and I have no current financial barriers to medication adherence.",4 - Your econimic situation,4 - None
+5SD_0086,I've been worried about paying my rent this month since my work hours have been cut back.,4 - Your econimic situation,3 - Low
+5SD_0087,"My housing situation is unstable, and I'm concerned about losing my apartment soon.",4 - Your econimic situation,2 - Medium
+5SD_0088,"I'm experiencing housing instability, which is making it hard to keep my medication organized and on schedule.",4 - Your econimic situation,1 - High
+5SD_0089,I'm worried about my ability to pay for medication next month due to recent layoffs.,4 - Your econimic situation,1 - High
+5SD_0090,"I'm worried about eviction due to unpaid rent, which might impact my ability to stay adherent to medication.",4 - Your econimic situation,1 - High
+5SD_0091,"Losing my job has made me anxious about affording my medication, but I haven't missed any doses.",4 - Your econimic situation,3 - Low
+5SD_0092,"I am currently facing eviction threats, which makes me anxious about my health management.",4 - Your econimic situation,2 - Medium
+5SD_0093,"Due to recent job loss, I am concerned about my ability to pay for my medication in the near future.",4 - Your econimic situation,2 - Medium
+5SD_0094,I'm worried that I might not be able to afford my medication soon due to financial instability.,4 - Your econimic situation,2 - Medium
+5SD_0095,"My income has decreased, and I am worried about upcoming bills, but I still manage to keep up with my treatment.",4 - Your econimic situation,3 - Low
+5SD_0096,"I'm worried about losing my housing soon, but I haven't noticed any impact on my medication adherence.",4 - Your econimic situation,3 - Low
+5SD_0097,"Because of my current financial struggles, I sometimes feel overwhelmed, but I continue my medication as prescribed.",4 - Your econimic situation,3 - Low
+5SD_0098,"Lately, I've been facing housing issues, but my medication routine remains unaffected so far.",4 - Your econimic situation,3 - Low
+5SD_0099,"Financial hardship has caused me stress, but I am keeping up with my medication routine without issue.",4 - Your econimic situation,3 - Low
+5SD_0100,"Housing instability is a concern, but I am managing to keep up with my medication schedule.",4 - Your econimic situation,3 - Low
+5SD_0101,"My financial situation is tight, but I am committed to adhering to my medication regimen.",4 - Your econimic situation,2 - Medium
+5SD_0102,"Housing issues are affecting my daily routine, but I haven't missed any doses.",4 - Your econimic situation,3 - Low
+5SD_0103,"I'm currently behind on my utility bills, and it's causing me additional anxiety about my living conditions.",4 - Your econimic situation,2 - Medium
+5SD_0104,"I've been struggling to pay my rent, which sometimes distracts me from remembering to take my medication on time.",4 - Your econimic situation,2 - Medium
+5SD_0105,"Due to recent job loss, I am worried about affording my healthcare and medication, but I haven't missed any doses yet.",4 - Your econimic situation,3 - Low
+5SD_0106,"Due to financial hardship, I sometimes have to skip meals, but I haven't missed any doses of my medication.",4 - Your econimic situation,3 - Low
+5SD_0107,"Financial issues are making it difficult to afford my prescriptions, but I haven't missed any doses yet.",4 - Your econimic situation,3 - Low
+5SD_0108,"My financial situation is tight, but I haven't missed any doses and plan to keep up with my treatment.",4 - Your econimic situation,3 - Low
+5SD_0109,"Because I am struggling financially, I sometimes delay refilling my prescriptions, but I haven't missed doses.",4 - Your econimic situation,3 - Low
+5SD_0110,"Housing instability has made it difficult to store my medication properly, though I haven't missed doses.",4 - Your econimic situation,3 - Low
+5SD_0111,"My income is uncertain, but I am doing my best to stay consistent with my medication schedule.",4 - Your econimic situation,2 - Medium
+5SD_0112,"Because of recent economic difficulties, I sometimes worry about affording my healthcare expenses.",4 - Your econimic situation,2 - Medium
+5SD_0113,"Financial strain is affecting my mental health, but I continue my treatment without interruptions.",4 - Your econimic situation,3 - Low
+5SD_0114,"Due to recent financial difficulties, I sometimes delay refilling my medication, but I haven't missed doses.",4 - Your econimic situation,3 - Low
+5SD_0115,"I'm worried about my ability to pay rent, which causes me stress but hasn't affected my medication routine.",4 - Your econimic situation,3 - Low
+5SD_0116,"Lately, financial worries have been overwhelming, but I haven't missed any medication doses.",4 - Your econimic situation,3 - Low
+5SD_0117,"Financial difficulties have caused me stress, but I continue my medication routine as prescribed.",4 - Your econimic situation,3 - Low
+5SD_0118,"Financial stress is affecting my mental health, but I am managing to stay adherent to my medication.",4 - Your econimic situation,3 - Low
+5SD_0119,"Financially, things have been tight lately, but I manage to keep up with my medication routine without issues.",4 - Your econimic situation,3 - Low
+5SD_0120,There are no financial issues affecting my medication routine; I am managing well financially.,4 - Your econimic situation,4 - None
+5SD_0121,"My housing situation is stable, and I don't have any financial concerns at the moment.",4 - Your econimic situation,4 - None
+5SD_0122,"My financial situation is stable now, and I don't anticipate any issues with my medication adherence.",4 - Your econimic situation,4 - None
+5SD_0123,I have no current financial issues affecting my ability to take my medication as prescribed.,4 - Your econimic situation,4 - None
+5SD_0124,"My housing is secure, and I have no financial concerns impacting my medication adherence.",4 - Your econimic situation,4 - None
+5SD_0125,"My housing and financial situation are stable, and I haven't experienced any barriers to medication adherence.",4 - Your econimic situation,4 - None
+5SD_0126,"I have stable housing and adequate financial resources, so I don't face barriers to medication adherence.",4 - Your econimic situation,4 - None
+5SD_0127,"My current financial status is stable, and I haven't experienced barriers to medication adherence.",4 - Your econimic situation,4 - None
+5SD_0128,"I've been feeling depressed because of the stigma I face in my community, which always affects my motivation to take medication.",3 - Your social situation,1 - High
+5SD_0129,"Some of my family members are aware of my condition, but they haven't been very supportive, which makes me feel isolated.",3 - Your social situation,2 - Medium
+5SD_0130,"My community has a stigma against HIV, and I fear being ostracized if others find out about my status. So I tried to hide my medication.",3 - Your social situation,2 - Medium
+5SD_0131,"I sometimes feel ashamed to disclose my status and to take my meds openly, fearing social rejection.",3 - Your social situation,2 - Medium
+5SD_0132,"There's a lot of misinformation about HIV treatment in my community, which increases my fear of stigma.",3 - Your social situation,2 - Medium
+5SD_0133,I worry about being rejected by my community because of my HIV status and stuff like taking ARTs.,3 - Your social situation,2 - Medium
+5SD_0134,"I worry about gossip and rumors spreading about my HIV status in my neighborhood, since they saw me taking meds.",3 - Your social situation,2 - Medium
+5SD_0135,I avoid social interactions because I'm worried about stigma and discrimination.,3 - Your social situation,2 - Medium
+5SD_0136,"I feel anxious about the social stigma in my community, which deeply affects my treatment.",3 - Your social situation,1 - High
+5SD_0137,I worry that disclosing my HIV treatment might lead to social exclusion or discrimination.,3 - Your social situation,2 - Medium
+5SD_0138,I feel overwhelmed by the social challenges related to my treatment.,3 - Your social situation,1 - High
+5SD_0139,I sometimes avoid telling my friends about my medication schedule because I'm worried they'll judge me or ask uncomfortable questions.,3 - Your social situation,2 - Medium
+5SD_0140,"I feel anxious when I think about how others perceive me because of my HIV status, but I try to focus on staying positive.",3 - Your social situation,3 - Low
+5SD_0141,"Sometimes I worry about being judged if I tell my new friends about my condition, but I haven't faced any discrimination so far and I'm all good with my treatment.",3 - Your social situation,3 - Low
+5SD_0142,"Sometimes I feel unnecessary to talk about my HIV status with new people I meet, it's my own stuff.",3 - Your social situation,3 - Low
+5SD_0143,"I avoid discussing my HIV status with new colleagues to prevent awkwardness, that's private.",3 - Your social situation,3 - Low
+5SD_0144,I sometimes hide my medication schedule from others to avoid questions or judgment.,3 - Your social situation,2 - Medium
+5SD_0145,I've been feeling really isolated lately because some friends have started to distance themselves after I disclosed my HIV status. It makes me worry about how stigma affects my relationships.,3 - Your social situation,2 - Medium
+5SD_0146,I just feel like I can't talk openly about my health.,3 - Your social situation,3 - Low
+5SD_0147,"Since I shared my HIV diagnosis with my family, I've noticed some relatives are avoiding me, which makes me feel lonely and stigmatized, and it also affects my treatment as well.",3 - Your social situation,2 - Medium
+5SD_0148,"I experienced some stigma at work after my diagnosis, which made me hesitant to take my pills in front of my colleagues.",3 - Your social situation,2 - Medium
+5SD_0149,"I recently started dating again and find it hard to bring up my HIV status, fearing it might affect my chances.",3 - Your social situation,3 - Low
+5SD_0150,I avoid social gatherings because I don't want to explain my health situation repeatedly.,3 - Your social situation,3 - Low
+5SD_0151,I worry that my HIV status might affect my job prospects because of stigma and discrimination.,3 - Your social situation,2 - Medium
+5SD_0152,I feel anxious about how my friends might react if they find out about my HIV status if I take my pills when I am with them.,3 - Your social situation,2 - Medium
+5SD_0153,Sometimes I feel lonely because I hide my HIV treatment from most people I know.,3 - Your social situation,2 - Medium
+5SD_0154,I avoid social events because I need to take meds everyday. I fear my HIV status might be revealed and lead to stigma if im in a party or something like that.,3 - Your social situation,2 - Medium
+5SD_0155,I sometimes feel anxious about my treatment and how my HIV status might affect my family relationships.,3 - Your social situation,2 - Medium
+5SD_0156,I isolate myself because I don't want to burden my friends with my health issues.,3 - Your social situation,3 - Low
+5SD_0157,"Sometimes I feel ashamed to tell my new friends about my HIV treatment, fearing judgment.",3 - Your social situation,2 - Medium
+5SD_0158,I sometimes hesitate to talk about my HIV treatment with new friends because of fear of rejection.,3 - Your social situation,2 - Medium
+5SD_0159,I avoid taking my pills with new acquaintances to prevent awkwardness or judgment.,3 - Your social situation,2 - Medium
+5SD_0160,I experience anxiety about how my HIV status might affect my social life and relationships.,3 - Your social situation,3 - Low
+5SD_0161,"My neighbor has been very supportive and has offered to accompany me to doctor appointments, which helps me feel less alone.",3 - Your social situation,4 - None
+5SD_0162,"My friend was very supportive when I told her about my HIV, and she even helped me find a support group.",3 - Your social situation,4 - None
+5SD_0163,"I have a good relationship with my healthcare provider and trust their advice, which helps me stay adherent.",3 - Your social situation,4 - None
+5SD_0164,My friends are very accepting and have never made me feel judged about my HIV status.,3 - Your social situation,4 - None
+5SD_0165,My sister has been very supportive and helps me manage my appointments and medication reminders.,3 - Your social situation,4 - None
+5SD_0166,"My community health worker has connected me with local support groups, which has improved my mental health.",3 - Your social situation,4 - None
+5SD_0167,My roommate is supportive and helps me stay positive despite the social challenges I face.,3 - Your social situation,4 - None
+5SD_0168,I have a close friend who knows about my condition and always encourages me to stay healthy.,3 - Your social situation,4 - None
+5SD_0169,"My healthcare team is understanding, and I feel comfortable discussing my concerns with them.",3 - Your social situation,4 - None
+5SD_0170,My cousin has been very supportive and understands the challenges I face.,3 - Your social situation,4 - None
+5SD_0171,My friends have been very understanding and respect my privacy about my health.,3 - Your social situation,4 - None
+5SD_0172,My support group helps me cope with social stigma and share experiences.,3 - Your social situation,4 - None
+5SD_0173,My partner is very supportive and helps me manage the emotional aspects of living with HIV.,3 - Your social situation,4 - None
+5SD_0174,"My community has programs to reduce stigma, which has helped me feel more accepted.",3 - Your social situation,4 - None
+5SD_0175,"I have a friend who openly discusses HIV-related issues, giving me confidence to share my experience.",3 - Your social situation,4 - None
+5SD_0176,My family has been very understanding and supportive since I disclosed my HIV status.,3 - Your social situation,4 - None
+5SD_0177,"My healthcare provider has been a great source of support, which helps me feel less isolated.",3 - Your social situation,4 - None
+5SD_0178,"My neighbors are understanding, and I feel safe sharing my health concerns with them.",3 - Your social situation,4 - None
+5SD_0179,My support network includes friends and family who respect my privacy and support my health choices.,3 - Your social situation,4 - None
+5SD_0180,"My community outreach programs have helped reduce stigma, making me more comfortable in social settings.",3 - Your social situation,4 - None
+5SD_0181,My friends are very supportive and encourage me to stay positive despite social challenges.,3 - Your social situation,4 - None
+5SD_0182,My family is proud of me for managing my condition and offers emotional support.,3 - Your social situation,4 - None
+5SD_0183,"My local community has initiatives to combat HIV stigma, which has improved my experience.",3 - Your social situation,4 - None
+5SD_0184,I've been worried about paying for my medication this month because my hours at work got cut. I'm not sure if I can afford the copay or the pharmacy might delay my refills.,4 - Your econimic situation,1 - High
+5SD_0185,"My rent is overdue again, and I haven't been able to buy my medication on time. It makes me anxious about missing doses.",4 - Your econimic situation,1 - High
+5SD_0186,"I'm currently behind on my bills, and I'm worried I might have to choose between paying for my meds or paying for food this month.",4 - Your econimic situation,1 - High
+5SD_0187,"Financial issues have been piling up, and I haven't been able to refill my prescriptions lately because I can't afford the medication.",4 - Your econimic situation,1 - High
+5SD_0188,"I've been worried about losing my apartment soon because I haven't paid rent for a couple of months, and I fear it could impact my medication routine.",4 - Your econimic situation,1 - High
+5SD_0189,"Due to recent job loss, I am having trouble paying for my meds, and I fear I might miss doses if my situation doesn't improve.",4 - Your econimic situation,1 - High
+5SD_0190,"Because I can't afford my rent this month, I might have to move.",4 - Your econimic situation,2 - Medium
+5SD_0191,"I recently lost my job, and now paying for my medication is a big stressor for me.",4 - Your econimic situation,2 - Medium
+5SD_0192,"My rent is overdue, and I'm worried I might have to skip my medication because I can't afford it right now.",4 - Your econimic situation,2 - Medium
+5SD_0193,"I'm currently behind on bills, which makes me anxious about my ability to afford my medications.",4 - Your econimic situation,2 - Medium
+5SD_0194,"Financial stress is affecting me, and I worry about missing doses if I can't pay my bills soon.",4 - Your econimic situation,2 - Medium
+5SD_0195,"My economic situation is strained, and I worry I might have to skip doses if things don't improve.",4 - Your econimic situation,2 - Medium
+5SD_0196,"I struggle with paying rent and medication costs, which sometimes causes me to miss doses.",4 - Your econimic situation,2 - Medium
+5SD_0197,"My financial situation is tight, but I manage to get my meds regularly. I just worry about what happens if things get worse.",4 - Your econimic situation,3 - Low
+5SD_0198,"I'm currently experiencing some housing difficulties, but I haven't missed any doses yet. Just worried about the future.",4 - Your econimic situation,3 - Low
+5SD_0199,"I've been struggling to make ends meet, which has caused some stress about my healthcare costs, but I haven't missed any doses.",4 - Your econimic situation,3 - Low
+5SD_0200,"My income is low, but I receive assistance, which helps me stay on top of my medication schedule.",4 - Your econimic situation,3 - Low
+5SD_0201,"Lately, I've been struggling to keep up with my appointments because I don't have stable housing. Sometimes I sleep in my car or couch surf, so going to the clinic is hard.",4 - Your econimic situation,2 - Medium
+5SD_0202,"My housing situation is unstable, and sometimes I have to skip meals or cut back on expenses, which makes me worried about my health.",4 - Your econimic situation,2 - Medium
+5SD_0203,"Sometimes I have to skip my medication because I run out of money before my payday, but I try to catch up when I can.",4 - Your econimic situation,1 - High
+5SD_0204,"I don't make a lot of money, but I am good with my treatment, I haven't missed doses yet.",4 - Your econimic situation,3 - Low
+5SD_0205,"Currently, I am behind on my utility bills, and this financial strain makes me anxious about maintaining my medication schedule.",4 - Your econimic situation,2 - Medium
+5SD_0206,"My income is unstable, but I haven't skipped any doses yet.",4 - Your econimic situation,3 - Low
+5SD_0207,"I'm living paycheck to paycheck, and I always have to prioritize rent over medications, but I try to stay consistent.",4 - Your econimic situation,1 - High
+5SD_0208,I'm on a tight budget and sometimes worry about being able to refill my prescriptions.,4 - Your econimic situation,2 - Medium
+5SD_0209,"My housing situation is uncertain, and I am concerned about how this affects my life.",4 - Your econimic situation,2 - Medium
+5SD_0210,I sometimes have to skip meals because I can't afford both food and medication.,4 - Your econimic situation,1 - High
+5SD_0211,"Financial difficulties have made it hard to buy my meds lately, but I haven't missed doses yet.",4 - Your econimic situation,3 - Low
+5SD_0212,"Because of recent economic hardship, I work really hard to keep my life as normal as possible.",4 - Your econimic situation,3 - Low
+5SD_0213,"Because I don't have stable housing, always  I miss doses or have trouble refilling prescriptions on time.",4 - Your econimic situation,1 - High
+5SD_0214,"Recently, my housing situation worsened, and I fear it might impact my ability to stay adherent to my meds.",4 - Your econimic situation,2 - Medium
+5SD_0215,"Due to financial hardship, I sometimes delay refilling my medication, but I haven't missed doses yet.",4 - Your econimic situation,3 - Low
+5SD_0216,"Life is expensive now, everything needs to be paid. It has caused me to miss doses occasionally, but I try to stay on schedule.",4 - Your econimic situation,2 - Medium
+5SD_0217,I am worried about being able to afford my medication if my financial situation worsens.,4 - Your econimic situation,2 - Medium
+5SD_0218,"Because of ongoing financial hardship, I sometimes delay refilling my prescriptions, but I haven't missed doses.",4 - Your econimic situation,3 - Low
+5SD_0219,"I recently moved to a new place, and it temporarily disrupted my medication routine, but I am catching up.",4 - Your econimic situation,2 - Medium
+5SD_0220,Money is making me anxious about my ability to stay consistent with my medication schedule.,4 - Your econimic situation,2 - Medium
+5SD_0221,"My rent is paid on time, and I haven't had any financial issues with my medication, but what if there is any unexpected expenses? Who knows",4 - Your econimic situation,3 - Low
+5SD_0222,"My financial situation is stable for now, and I haven't had any issues with medication access.",4 - Your econimic situation,4 - None
+5SD_0223,"Although my financial situation isn't perfect, I manage to keep up with my medication schedule without issues.",4 - Your econimic situation,3 - Low
+5SD_0224,"My housing is stable, and I haven't faced any financial barriers to my medication, so I feel confident about my adherence.",4 - Your econimic situation,4 - None
+5SD_0225,"My living situation is secure, and I haven't had any issues with paying for my medication.",4 - Your econimic situation,4 - None
+5SD_0226,"I am managing my finances well, and my medication adherence has been consistent.",4 - Your econimic situation,4 - None
+5SD_0227,I pay my rent on time and have no current financial barriers to my medication.,4 - Your econimic situation,4 - None
+5SD_0228,"Living arrangements are stable, and I haven't faced any issues with my medication routine.",4 - Your econimic situation,4 - None
+5SD_0229,"My housing and financial situation are stable now, and I haven't had any adherence issues.",4 - Your econimic situation,4 - None
+5SD_0230,"My housing is secure, and I manage to keep up with medication costs without issues.",4 - Your econimic situation,4 - None
+5SD_0231,"I haven't faced any financial barriers recently, and I take my meds as prescribed.",4 - Your econimic situation,4 - None
+5SD_0232,I've been worried about paying for my medication this month because my job's been unstable lately. I have skipped several doses because I can't afford them.,4 - Your econimic situation,1 - High
+5SD_0233,"My rent is overdue, and I haven't been able to focus on my health. I worry that if I don't get my medication, my health could get worse.",4 - Your econimic situation,1 - High
+5SD_0234,"Recently, I lost my job, and now I am worried about paying for my medication.",4 - Your econimic situation,1 - High
+5SD_0235,"My income is very limited, and I often have to skip meals to afford my meds. I'm worried about the long-term effects.",4 - Your econimic situation,1 - High
+5SD_0236,"I recently lost my job, and it's been tough to keep up with my health needs. I might run out of meds soon if things don't improve.",4 - Your econimic situation,1 - High
+5SD_0237,"I worry about losing my home, which might make it harder to keep up with my medication schedule.",4 - Your econimic situation,2 - Medium
+5SD_0238,"Financial stress has been overwhelming lately, and I skip doses because I can't afford the bill.",4 - Your econimic situation,1 - High
+5SD_0239,"Due to recent job loss, I am worried I might run out of medication soon if I can't find work.",4 - Your econimic situation,1 - High
+5SD_0240,I'm worried about losing my apartment.,4 - Your econimic situation,2 - Medium
+5SD_0241,"Due to my limited income, I sometimes have to make tough choices about expenses.",4 - Your econimic situation,3 - Low
+5SD_0242,"Lately, I've been worried about paying my rent, which distracts me from managing my health properly.",4 - Your econimic situation,2 - Medium
+5SD_0243,"My financial situation hasn't changed much. Overall, I manage my meds okay.",4 - Your econimic situation,4 - None
+5SD_0244,"Sometimes I worry about my ability to pay rent, but I still manage to take my medication regularly.",4 - Your econimic situation,3 - Low
+5SD_0245,"My income is limited, but I've managed to keep up with my medication so far.",4 - Your econimic situation,3 - Low
+5SD_0246,"Lately, I've been struggling to make ends meet, and it's been stressful, and I'm anxious about how long I can keep up with the medication costs.",4 - Your econimic situation,1 - High
+5SD_0247,My housing situation is unstable; I sometimes stay with friends or move around. It makes managing my medication schedule a bit harder but I haven't missed doses.,4 - Your econimic situation,3 - Low
+5SD_0248,"Because of my financial struggles, I sometimes delay refilling my prescription, but I haven't missed doses yet.",4 - Your econimic situation,3 - Low
+5SD_0249,"My housing is stable, but the costs are high, and I worry about future expenses.",4 - Your econimic situation,2 - Medium
+5SD_0250,"My financial situation is tight, but I prioritize my medication. I sometimes have to cut back on other expenses to afford my pills.",4 - Your econimic situation,2 - Medium
+5SD_0251,"Housing instability has made it hard to keep my medication routine, especially when I have no fixed address.",4 - Your econimic situation,2 - Medium
+5SD_0252,"My income is unstable, and I worry about being able to pay for my medication in the coming months.",4 - Your econimic situation,2 - Medium
+5SD_0253,"Financial hardship has made me anxious about my health, but I haven't missed any doses yet.",4 - Your econimic situation,3 - Low
+5SD_0254,"Financial issues have caused me to delay refilling my medication a few times, but I haven't missed doses.",4 - Your econimic situation,3 - Low
+5SD_0255,Housing instability and financial stress make it hard to keep up with my medication schedule consistently.,4 - Your econimic situation,2 - Medium
+5SD_0256,"Sometimes I skip doses because I can't afford transportation to the pharmacy, especially when funds are tight.",4 - Your econimic situation,2 - Medium
+5SD_0257,"Financial hardship is making me anxious about my health, but I haven't missed doses yet.",4 - Your econimic situation,3 - Low
+5SD_0258,Housing insecurity has made it difficult to remember or access my medication consistently.,4 - Your econimic situation,2 - Medium
+5SD_0259,"When money is tight, I sometimes delay refilling my prescriptions, but I try not to miss doses.",4 - Your econimic situation,2 - Medium
+5SD_0260,"I'm on some assistance programs that help cover my medication costs, so I haven't had financial issues lately.",4 - Your econimic situation,4 - None
+5SD_0261,"I receive some financial help from family, which makes it easier to keep up with my medication schedule.",4 - Your econimic situation,4 - None
+5SD_0262,"Thanks to my insurance, I don't have big worries about medication costs right now.",4 - Your econimic situation,4 - None
+5SD_0263,"I'm on disability, so my medication costs are covered, and I don't face financial barriers at the moment.",7 - Your health,3 - Low
+5SD_0264,"My job doesn't pay much, but I manage to afford my medications thanks to assistance programs.",4 - Your econimic situation,3 - Low
+5SD_0265,"I receive food stamps and some help with rent, which helps me stay on top of my medication routine.",4 - Your econimic situation,3 - Low
+5SD_0266,"I have no financial issues right now, so I don't worry about missing doses due to costs.",4 - Your econimic situation,4 - None
+5SD_0267,"My housing situation is stable, and I have enough resources to keep up with my medication schedule.",4 - Your econimic situation,4 - None
+5SD_0268,"I get assistance that covers most of my medication costs, so I don't worry about affordability.",4 - Your econimic situation,4 - None
+5SD_0269,"My housing is secure, and I manage my medication without financial worries.",4 - Your econimic situation,4 - None
+5SD_0270,"I rely on social programs to help cover my medication costs, which makes adherence easier.",4 - Your econimic situation,3 - Low
+5SD_0271,"Thanks to social assistance programs, I don't face any financial barriers to my medication.",4 - Your econimic situation,3 - Low
+5SD_0272,"My housing has been stable, and I have enough resources to ensure I take my medication regularly.",4 - Your econimic situation,4 - None
+5SD_0273,"I get help from family and community programs, so my medication adherence is not affected by finances.",4 - Your econimic situation,4 - None
+5SD_0274,"My financial situation is stable for now, and I take my meds as prescribed without issues.",4 - Your econimic situation,4 - None
+5SD_0275,"I rely on government assistance to help cover my medications, which helps keep me adherent.",4 - Your econimic situation,3 - Low
+5SD_0276,I'm struggling to pay my bills on time because of my medical expenses.,4 - Your econimic situation,2 - Medium
+5SD_0277,"I'm worried about how I'll pay for my rent this month, and it's affecting my mental health.",4 - Your econimic situation,2 - Medium
+5SD_0278,"My pharmacy bill is too high, and I'm having trouble affording it.",4 - Your econimic situation,2 - Medium
+5SD_0279,"I've been applying to more jobs, but it's tough out there, and I'm still trying to cover my monthly medication costs on my current income.",4 - Your econimic situation,2 - Medium
+5SD_0280,"I'm working multiple part-time jobs just to keep up with my expenses, but it's taking a toll on my mental health and medication adherence.",4 - Your econimic situation,2 - Medium
+5SD_0281,I'm worried about how I'll afford medication when my current job is laid off or downsized.,4 - Your econimic situation,2 - Medium
+5SD_0282,"My housing costs are too high, and I'm having trouble affording my medication and other essential expenses.",4 - Your econimic situation,1 - High
+5SD_0283,"I've been applying for government assistance to help with my medication costs, but the process is slow and unpredictable.",4 - Your econimic situation,2 - Medium
+5SD_0284,"My job offers flexible hours, which helps me manage my expenses better and stick to my medication regimen.",4 - Your econimic situation,4 - None
+5SD_0285,"My family is supporting me financially while I'm going through treatment, which helps alleviate some of the financial stress associated with taking my meds.",4 - Your econimic situation,3 - Low
+5SD_0286,I'm worried about how I'll pay for medication when my disability benefits are delayed or reduced.,4 - Your econimic situation,2 - Medium
+5SD_0287,"My housing situation is unstable, which makes it hard for me to remember to take my medication on time every day.",4 - Your econimic situation,2 - Medium
+5SD_0288,"I can't afford the copay for my HIV medication this month, so I'm skipping doses to make it last longer.",4 - Your econimic situation,1 - High
+5SD_0289,It is difficults for me to pay for my HIV medication lately because I lost my job.,4 - Your econimic situation,1 - High
+5SD_0290,"The pharmacy told me my insurance wouldn't cover the new medication, so now I have to pay out of pocket. That's going to be tough.",4 - Your econimic situation,2 - Medium
+5SD_0291,Sometimes I skip doses because I can't even afford to buy food.,4 - Your econimic situation,1 - High
+5SD_0292,The cost of living is so high here. It feels impossible to save money when everything is expensive.,4 - Your econimic situation,2 - Medium
+5SD_0293,"I'm working extra hours to try and make up for the lost income after my layoff, but it's still hard to afford everything.",4 - Your econimic situation,2 - Medium
+5SD_0294,"I'm grateful that I have access to affordable healthcare, but sometimes the cost of medication can still be a worry.",4 - Your econimic situation,2 - Medium
+5SD_0295,I'm struggling to keep up with my medication because I lost my job last month and can't afford it anymore.,4 - Your econimic situation,1 - High
+5SD_0296,"I've been doing okay financially, and I haven't had any issues affording or taking my HIV medication.",4 - Your econimic situation,4 - None
+5SD_0297,"I've been dealing with some financial issues lately, but thankfully they haven't affected my ability to afford and take my HIV medication.",4 - Your econimic situation,3 - Low
+5SD_0298,I'm struggling to pay my rent due to the high cost of living.,4 - Your econimic situation,2 - Medium
+5SD_0299,The cost of my medication doesn't affect me now because I'm fortunate enough to have good insurance coverage.,4 - Your econimic situation,4 - None
+5SD_0300,"Although I'm worried about costs occasionally, so far I've managed without any issues in taking my meds on time.",4 - Your econimic situation,3 - Low
+5SD_0301,"The anxiety is terrible and I worry constantly about whether I took my pills correctly, or if I missed one.",1 - Your thoughts and feelings,1 - High
+5SD_0302,I'm so depressed lately and it makes it really difficult to remember to take my medication.,1 - Your thoughts and feelings,1 - High
+5SD_0303,I keep forgetting to take my pills because I'm so distracted by other things.,2 - Your habits and activities,1 - High
+5SD_0304,"It feels like a huge burden, and I often find myself pushing my pills to the back of my mind.",1 - Your thoughts and feelings,1 - High
+5SD_0305,"Taking my meds feels like a chore, I have days where I just don’t want to face it. ",1 - Your thoughts and feelings,1 - High
+5SD_0306,"I'm frustrated with the constant pills, it feels overwhelming.",1 - Your thoughts and feelings,1 - High
+5SD_0307,"Rarely, I just forget, it's not intentional, but it happens.",2 - Your habits and activities,2 - Medium
+5SD_0308,I get so caught up in other things that taking my medication just slips my mind sometimes.,2 - Your habits and activities,2 - Medium
+5SD_0309,I almost never feel like I have the energy to take care of myself.,1 - Your thoughts and feelings,1 - High
+5SD_0310,I occasionally feel hopeless about my situation.,1 - Your thoughts and feelings,2 - Medium
+5SD_0311,"Occasionally, I feel overwhelmed by everything.",1 - Your thoughts and feelings,2 - Medium
+5SD_0312,"I rarely think about taking my medication, it just feels like another thing on my plate.",1 - Your thoughts and feelings,1 - High
+5SD_0313,"I’m hardly ever thinking about the medication, honestly.",1 - Your thoughts and feelings,1 - High
+5SD_0314,"Rarely, I feel like I'm not in control of my life.",1 - Your thoughts and feelings,4 - None
+5SD_0315,Sometimes I just feel so angry and frustrated that I have to take these pills. It feels like a punishment.,1 - Your thoughts and feelings,2 - Medium
+5SD_0316,I'm scared of what people will think if they find out I have HIV... It makes me want to hide and not take my medication.,3 - Your social situation,1 - High
+5SD_0317,"I'm really struggling to accept my diagnosis.. it feels unreal, and I can't seem to motivate myself to stay on track with my meds.",1 - Your thoughts and feelings,1 - High
+5SD_0318,I just don't see the point sometimes - what's the point of taking these pills if I still feel sick?,1 - Your thoughts and feelings,2 - Medium
+5SD_0319,"I'm worried that these meds are making me feel worse, I feel so hopeless.",1 - Your thoughts and feelings,2 - Medium
+5SD_0320,It's just so much to deal with... I feel like I'm drowning sometimes... It's hard to keep up with everything.,1 - Your thoughts and feelings,2 - Medium
+5SD_0321,I've been feeling really down and withdrawn since I found out and it's affecting my motivation to take my medication regularly.,1 - Your thoughts and feelings,2 - Medium
+5SD_0322,"Sometimes, I just feel like giving up. It's hard to keep fighting this.",1 - Your thoughts and feelings,2 - Medium
+5SD_0323,I’m constantly second-guessing whether I'm doing everything right with these pills… exhausting.,1 - Your thoughts and feelings,2 - Medium
+5SD_0324,I'm having trouble accepting this new reality with HIV and it's really impacting my ability to stay consistent on my treatment,1 - Your thoughts and feelings,2 - Medium
+5SD_0325,I feel so isolated sometimes :( It’s hard to stay motivated when you feel like you’re going through this alone.,3 - Your social situation,2 - Medium
+5SD_0326,"I worry constantly about the future, and that makes it hard to focus on taking my meds regularly.",1 - Your thoughts and feelings,2 - Medium
+5SD_0327,Sometimes I just feel numb to it all.,1 - Your thoughts and feelings,3 - Low
+5SD_0328,"I’m barely coping with the diagnosis, let alone managing medication reminders.",1 - Your thoughts and feelings,1 - High
+5SD_0329,I don't always feel like I can handle this.,1 - Your thoughts and feelings,2 - Medium
+5SD_0330,I'm starting to question if all this effort is worth it.,1 - Your thoughts and feelings,2 - Medium
+5SD_0331,Sometimes I just feel like it’s all too much to bear.,1 - Your thoughts and feelings,2 - Medium
+5SD_0332,I almost always feel anxious about my health since being HIV.,1 - Your thoughts and feelings,1 - High
+5SD_0333,It's hard to stay positive when dealing with this medication.,1 - Your thoughts and feelings,2 - Medium
+5SD_0334,I feel like I'm constantly fighting a losing battle.,1 - Your thoughts and feelings,2 - Medium
+5SD_0335,I have days where I just want to give up.,1 - Your thoughts and feelings,2 - Medium
+5SD_0336,I feel like a burden to everyone around me.,1 - Your thoughts and feelings,2 - Medium
+5SD_0337,I sometimes feel incredibly lonely… I feel like I’m constantly fighting a war against myself.,3 - Your social situation,2 - Medium
+5SD_0338,I occasionally think about skipping my medication.,1 - Your thoughts and feelings,2 - Medium
+5SD_0339,I feel incredibly frustrated with my situation.,1 - Your thoughts and feelings,2 - Medium
+5SD_0340,Sometimes I forget to take my meds because I'm stressed about work.,2 - Your habits and activities,2 - Medium
+5SD_0341,"My daily routine is pretty packed, and I struggle to remember to take my meds.",2 - Your habits and activities,2 - Medium
+5SD_0342,I have to prioritize my work over taking my medication when it's time for a dose.,2 - Your habits and activities,2 - Medium
+5SD_0343,"I have a lot of responsibilities at home and work, but I'm making sure to take care of myself by taking my meds as prescribed.",2 - Your habits and activities,3 - Low
+5SD_0344,"My work schedule is really unpredictable, so it's hard for me to establish a routine with my medication.",2 - Your habits and activities,2 - Medium
+5SD_0345,"My daily routine is pretty packed, but I make sure to prioritize taking care of myself by staying on top of my medication schedule.",2 - Your habits and activities,3 - Low
+5SD_0346,I don't want to take my meds in front of others because I'm worried about what they'll think.,3 - Your social situation,2 - Medium
+5SD_0347,I'm trying to cut back on drinking because I heard it can mess with my HIV meds.,2 - Your habits and activities,3 - Low
+5SD_0348,"I've been having a lot of anxiety lately, and it's making it hard for me to stick to my medication schedule.",1 - Your thoughts and feelings,2 - Medium
+5SD_0349,"I have a lot of trouble sleeping because of stress, so it's hard for me to remember to take my meds in the morning.",1 - Your thoughts and feelings,2 - Medium
+5SD_0350,I constantly have trouble remembering to take my meds as I'm feeling super stressed and anxious.,1 - Your thoughts and feelings,1 - High
+5SD_0351,"I've got a good healthcare team in place, which helps me stay on track with my medication schedule.",6 - Your care,4 - None
+5SD_0352,"I feel like I'm doing okay with taking my meds on time, it's just that I always forget to pack them when I go on vacation.",2 - Your habits and activities,1 - High
+5SD_0353,It's hard for me to focus on anything else when I have a pill bottle in front of me.,1 - Your thoughts and feelings,2 - Medium
+5SD_0354,I've been taking my meds for years now and I don't have to think about it that much.,1 - Your thoughts and feelings,4 - None
+5SD_0355,Sometimes I feel like I'm losing myself in all of this… it's just hard to keep a sense of identity when you're dealing with something as serious as HIV.,1 - Your thoughts and feelings,2 - Medium
+5SD_0356,"The clinic is really far from where I live, which makes it hard to get there for appointments.",6 - Your care,3 - Low
+5SD_0357,"I've had a few instances where the pharmacy didn't have my medication in stock, which has messed up my routine.",6 - Your care,2 - Medium
+5SD_0358,"I've had a tough time financially, so it's been hard to afford my meds.",4 - Your econimic situation,1 - High
+5SD_0359,"I've missed a few doses because I've been out late with friends, and it feels like I'm always playing catch-up now.",2 - Your habits and activities,1 - High
+5SD_0360,I've always been having trouble remembering when I need to take my meds because my schedule is so hectic.,2 - Your habits and activities,1 - High
+5SD_0361,"I've missed a few doses because I was too busy with work, but I know I need to prioritize my health.",2 - Your habits and activities,2 - Medium
+5SD_0362,"My HIV symptoms have been flaring up lately, and it's hard to focus on anything else except for how I feel.",7 - Your health,1 - High
+5SD_0363,"I'm worried about the side effects of the medication, especially since I have a history of kidney issues.",7 - Your health,2 - Medium
+5SD_0364,"The pills are really big and hard to swallow, which makes taking my medication a struggle sometimes.",5 - Your medication,2 - Medium
+5SD_0365,"I feel stigmatized when I pick up my meds at the pharmacy, it makes me not want to go there as often.",3 - Your social situation,1 - High
+5SD_0366,"I've been feeling really down lately, and it's hard for me to keep up with my medication schedule.",1 - Your thoughts and feelings,1 - High
+5SD_0367,"I've been feeling anxious about the long-term effects of the meds, which makes me want to skip them sometimes.",1 - Your thoughts and feelings,2 - Medium
+5SD_0368,"Honestly, I don't believe my medication works as they say, I feel like nothing changes whether I take them or not.",1 - Your thoughts and feelings,1 - High
+5SD_0369,"Many days, I feel like giving up because it feels like these meds are controlling my life more than they should.",1 - Your thoughts and feelings,1 - High
+5SD_0370,It's a daily struggle that I feel like my emotions are getting in the way of sticking to my medication schedule.,1 - Your thoughts and feelings,1 - High
+5SD_0371,"Sometimes, the fear of potential side effects keeps me from taking my meds as prescribed.",5 - Your medication,2 - Medium
+5SD_0372,I get really sad thinking about how long I have to keep taking these pills forever... It's just so overwhelming.,1 - Your thoughts and feelings,1 - High
+5SD_0373,"I have these moments where I just feel so down and wonder if taking the pills is even worth it - But then, I snap out of it and remember why I started.",1 - Your thoughts and feelings,2 - Medium
+5SD_0374,"It's strange how taking these pills has become such a routine part of my life, yet I still feel uncertain about their long-term effects on me.",1 - Your thoughts and feelings,2 - Medium
+5SD_0375,Sometimes I just don't want to think about my medication - It's like it takes over everything in my life.,1 - Your thoughts and feelings,2 - Medium
+5SD_0376,"I've been trying to remind myself of the importance of my medication, especially when I'm feeling uncertain.",1 - Your thoughts and feelings,3 - Low
+5SD_0377,"I've been trying to stay positive about my treatment, which helps me keep up with my medication routine.",1 - Your thoughts and feelings,4 - None
+5SD_0378,"I've been feeling really anxious about my HIV meds lately… I understand they're important, but sometimes it's hard to remember them with everything going on.",1 - Your thoughts and feelings,2 - Medium
+5SD_0379,"I get nervous every time I take a new batch of pills, thinking they might make me feel worse or different somehow.",1 - Your thoughts and feelings,2 - Medium
+5SD_0380,"The thought of taking these pills every day can be daunting, especially when I'm not feeling great mentally.",1 - Your thoughts and feelings,2 - Medium
+5SD_0381,There are days when I feel so anxious that it affects my ability to stick to my medication schedule.,1 - Your thoughts and feelings,2 - Medium
+5SD_0382,"I'm just so accepting of my condition, it doesn't bother me anymore to take the medication every day - I see it as a part of life now.",1 - Your thoughts and feelings,4 - None
+5SD_0383,"I've been feeling more motivated lately because I've seen improvements in my health, which makes me want to continue with my treatment.",1 - Your thoughts and feelings,4 - None
+5SD_0384,I've been feeling more confident about managing my condition because I understand how important my medication is.,1 - Your thoughts and feelings,4 - None
+5SD_0385,"I used to be really good about taking my meds, but now I'm drinking more and I just don't feel like it.",2 - Your habits and activities,1 - High
+5SD_0386,"I've been using drugs to cope with the anxiety, and it's impacting my ability to take my medication regularly.",2 - Your habits and activities,1 - High
+5SD_0387,"I am using drugs to deal with daily stress, and I'm skipping doses more often.",2 - Your habits and activities,1 - High
+5SD_0388,"I've been really struggling to keep up with my meds lately, work, family, it's just been chaos.",2 - Your habits and activities,1 - High
+5SD_0389,I sometimes forget to take my pills when I'm out with friends. ,2 - Your habits and activities,2 - Medium
+5SD_0390,"My schedule is just so hectic, I often take my meds at different times of the day.",2 - Your habits and activities,2 - Medium
+5SD_0391,"I'm having trouble sleeping, so I'm often tired and forget to take my medication.",7 - Your health,1 - High
+5SD_0392,"I've been so busy working overtime, that makes me occasionally missing a dose.",2 - Your habits and activities,2 - Medium
+5SD_0393,I feel like I’m always on the go; it's really hard to remember to take my meds.,2 - Your habits and activities,1 - High
+5SD_0394,"I find myself isolating from friends and family, making it hard to stay on track for my treatment.",3 - Your social situation,2 - Medium
+5SD_0395,"Sometimes I just don't feel motivated to do anything, including taking my meds.",1 - Your thoughts and feelings,2 - Medium
+5SD_0396,I rarely have a consistent sleep schedule these days.,2 - Your habits and activities,3 - Low
+5SD_0397,"I find myself procrastinating on everything, including taking my medication.",1 - Your thoughts and feelings,2 - Medium
+5SD_0398,"My life has become so chaotic, I've completely lost track of my medication schedule.",2 - Your habits and activities,1 - High
+5SD_0399,I'm constantly traveling for work; it's difficult to maintain a regular medication routine.,2 - Your habits and activities,2 - Medium
+5SD_0400,"I’m consuming alcohol when I’m feeling overwhelmed, which constantly makes me miss doses.",2 - Your habits and activities,1 - High
+5SD_0401,I've been spending a lot of time gaming and that makes me neglecting my treatment time by time.,2 - Your habits and activities,2 - Medium
+5SD_0402,My days are just a blur of activity; I often forget to take my medication.,2 - Your habits and activities,1 - High
+5SD_0403,I'm constantly working on projects and rarely take breaks.,2 - Your habits and activities,3 - Low
+5SD_0404,I’ve noticed I’m isolating myself more and missing doses.,3 - Your social situation,1 - High
+5SD_0405,I'm working long hours and often miss doses because I'm exhausted.,2 - Your habits and activities,1 - High
+5SD_0406,I’m often working overtime and frequently missing doses.,2 - Your habits and activities,1 - High
+5SD_0407,"I’m having trouble managing my time effectively, which is impacting my medication adherence.",2 - Your habits and activities,2 - Medium
+5SD_0408,I often skip doses when I’m feeling overwhelmed.,1 - Your thoughts and feelings,1 - High
+5SD_0409,"I’m struggling to balance work, family, and my health, leading to missed doses.",2 - Your habits and activities,2 - Medium
+5SD_0410,My routine is completely thrown off and I’m always forgetting my medication.,2 - Your habits and activities,1 - High
+5SD_0411,I’m having difficulty prioritizing my health in my current situation.,1 - Your thoughts and feelings,2 - Medium
+5SD_0412,I feel like my daily structure has fallen apart and I'm missing doses for several days.,2 - Your habits and activities,1 - High
+5SD_0413,Recenetly I’m constantly busy and often forget to take my medication.,2 - Your habits and activities,1 - High
+5SD_0414,I'm finding it hard to maintain a consistent routine and I've been missing doses since the beginning of this year.,2 - Your habits and activities,1 - High
+5SD_0415,I'm constantly nauseous after taking my medication but I'm not sure what to do… I'm thinking about stopping doses.,5 - Your medication,1 - High
+5SD_0416,I'm always forgetting to take my medication when I'm at work.,2 - Your habits and activities,1 - High
+5SD_0417,I'm embarrassed to ask the pharmacist about the side effects as I feel like they'll think I'm a bad patient.,6 - Your care,2 - Medium
+5SD_0418,"I’m sometimes confused about whether I’ve already taken a dose, it’s hard to keep track.",2 - Your habits and activities,2 - Medium
+5SD_0419,"The pill size is a huge problem for me, it sticks in my throat.",5 - Your medication,2 - Medium
+5SD_0420,I rarely take my medication on weekends because I'm so busy with other things.,2 - Your habits and activities,1 - High
+5SD_0421,The medication packaging is confusing - I'm not sure how many pills I'm supposed to take.,5 - Your medication,2 - Medium
+5SD_0422,I’m rarely able to remember to take my medication when I’m socializing with friends.,2 - Your habits and activities,1 - High
+5SD_0423,I occasionally skip doses because I feel embarrassed to ask questions about side effects.,5 - Your medication,2 - Medium
+5SD_0424,I rarely remember to take my medication when I'm having a bad day.,1 - Your thoughts and feelings,1 - High
+5SD_0425,I miss doses because I’m feeling anxious about my health.,7 - Your health,2 - Medium
+5SD_0426,I just can't remember to take my medication when I’m feeling lonely.,3 - Your social situation,1 - High
+5SD_0427,"These pills are so huge, I keep skipping them, it's really difficult to swallow them, especially when I'm nervous.",5 - Your medication,1 - High
+5SD_0428,The taste is awful! It leaves a really bitter taste in my mouth for hours afterward - I often skip the pill just to avoid that feeling.,5 - Your medication,1 - High
+5SD_0429,"I keep mixing up the times I need to take my meds… there are just so many different pills, and I have a crazy pill schedule.",5 - Your medication,2 - Medium
+5SD_0430,"I'm worried about the long-term side effects, I read online that some people experience liver problems - It's stressing me out.",5 - Your medication,2 - Medium
+5SD_0431,"Sometimes I feel really dizzy after taking my medication, it makes things so difficult.",5 - Your medication,2 - Medium
+5SD_0432,"The pills are really expensive, and I’m worried about being able to afford them next month.",4 - Your econimic situation,1 - High
+5SD_0433,"The medication makes me feel really tired, and it's hard to stay focused at work.",5 - Your medication,2 - Medium
+5SD_0434,"I'm worried about drug interactions as I take other medications, and I’m not sure if they will interfere.",5 - Your medication,2 - Medium
+5SD_0435,I'm really frustrated with the medication cuz it disrupts my sleep.,5 - Your medication,2 - Medium
+5SD_0436,Sometimes I forget to take my medication because I just feel so down.,1 - Your thoughts and feelings,2 - Medium
+5SD_0437,"I often skip doses when I travel, to me it’s just too complicated to manage.",2 - Your habits and activities,1 - High
+5SD_0438,I’m sometimes hesitant to take my medication because I’m afraid of the side effects.,5 - Your medication,2 - Medium
+5SD_0439,I keep forgetting to take my medication when I'm out and about.,2 - Your habits and activities,1 - High
+5SD_0440,I sometimes forget to take my medication because I feel fine and think I don't need it.,1 - Your thoughts and feelings,2 - Medium
+5SD_0441,I keep forgetting to transfer my prescription to the new pharmacy.,6 - Your care,2 - Medium
+5SD_0442,I’m usually forgetting to take my medication when I’m feeling depressed.,1 - Your thoughts and feelings,1 - High
+5SD_0443,I often miss doses because I’m afraid of being judged by others if they find out I’m taking medication.,3 - Your social situation,1 - High
+5SD_0444,I’m usually forgetting to take my medication when I'm traveling internationally.,2 - Your habits and activities,1 - High
+5SD_0445,I’m usually forgetting to take my medication when I’m with my family.,2 - Your habits and activities,1 - High
+5SD_0446,"I'm really worried about the cost of my medication, it's getting harder and harder to afford, and I don't know what I'm going to do.",4 - Your econimic situation,1 - High
+5SD_0447,I accidentally missed a dose because I couldn't reach my pharmacy.,6 - Your care,2 - Medium
+5SD_0448,"I had to pay a large copay to get my medication, and it significantly impacted my budget.",4 - Your econimic situation,2 - Medium
+5SD_0449,"The pharmacy made a mistake with my prescription, and I missed several doses of medication.",6 - Your care,1 - High
+5SD_0450,The clinic staff wasn't very helpful when I asked about a discount program for my treatment.,6 - Your care,2 - Medium
+5SD_0451,I had to go to a different pharmacy because mine closed down recently and I’m worried about transferring my prescriptions.,6 - Your care,2 - Medium
+5SD_0452,"I'm constantly getting calls from the pharmacy asking me to confirm my prescription, so annoying.",6 - Your care,3 - Low
+5SD_0453,"The clinic’s online portal is difficult to navigate, I can’t find the information I need.",6 - Your care,3 - Low
+5SD_0454,I’m concerned about the clinic's cleanliness and hygiene standards.,6 - Your care,3 - Low
+5SD_0455,I’m finding it difficult to understand the instructions on the medication label.,5 - Your medication,2 - Medium
+5SD_0456,The pharmacy staff was unhelpful when I asked about generic alternatives to my medication.,6 - Your care,2 - Medium
+5SD_0457,The clinic’s automated phone system is difficult to navigate and frustrating to use.,6 - Your care,3 - Low
+5SD_0458,"I went to the pharmacy yesterday, and they said they were out of my pills and I had to wait a whole week to get them refilled… it's so inconvenient!",6 - Your care,2 - Medium
+5SD_0459,"The nurse at the clinic always rushes me through my appointments, I feel like she doesn't really listen to my concerns about the medication.",6 - Your care,2 - Medium
+5SD_0460,"I tried to schedule an appointment with my doctor to discuss a side effect, but they said I'm not a priority right now :( It’s discouraging.",6 - Your care,2 - Medium
+5SD_0461,"The clinic keeps changing their hours, and it's so hard to get there when I need to, I’m always worried I’m going to miss an appointment.",6 - Your care,3 - Low
+5SD_0462,"I'm not sure if my insurance will cover my medication anymore I need to call them, but I’m putting it off because I’m afraid of the answer.",4 - Your econimic situation,2 - Medium
+5SD_0463,"I’m having trouble getting transportation to the clinic, it’s a long bus ride, and I often miss appointments.",6 - Your care,3 - Low
+5SD_0464,"I'm worried about the pharmacy messing up my prescription since It’s happened before, and I had to wait weeks for a refill.",6 - Your care,2 - Medium
+5SD_0465,"The clinic keeps sending me bills I don’t understand, I’m afraid I’m going to get into debt.",6 - Your care,2 - Medium
+5SD_0466,The pharmacy staff was really judgmental when I asked for help understanding my medication instructions.,6 - Your care,2 - Medium
+5SD_0467,I feel like the clinic isn’t taking my concerns about side effects seriously - they just tell me to keep taking the medication.,6 - Your care,2 - Medium
+5SD_0468,"The clinic is so far away from where I live, it’s difficult to find the time to get there.",6 - Your care,3 - Low
+5SD_0469,"I’m worried about the clinic sharing my information with other people, I value my privacy.",6 - Your care,3 - Low
+5SD_0470,"I’m having trouble understanding the payment plan offered by the clinic, it’s confusing.",6 - Your care,3 - Low
+5SD_0471,I’m worried that the clinic won’t be able to fill my prescription on time.,6 - Your care,2 - Medium
+5SD_0472,I am having difficulty communicating with the clinic staff due to a language barrier.,6 - Your care,2 - Medium
+5SD_0473,The healthcare provider rushed me through the appointment and didn’t allow me to ask questions.,6 - Your care,3 - Low
+5SD_0474,I feel judged by the clinic staff when I ask for help understanding my medication.,6 - Your care,2 - Medium
+5SD_0475,"The clinic’s waiting times are excessively long, making it hard to schedule appointments.",6 - Your care,3 - Low
+5SD_0476,I feel uncomfortable discussing my concerns with the healthcare provider.,6 - Your care,3 - Low
+5SD_0477,I’m worried about the clinic’s reputation and quality of care.,6 - Your care,3 - Low
+5SD_0478,I’m frustrated that I have to keep calling the pharmacy to get updates on my prescription.,6 - Your care,2 - Medium
+5SD_0479,I feel like the clinic is not responsive to my questions and concerns.,6 - Your care,3 - Low
+5SD_0480,I’m worried about the privacy of my medical records at the clinic.,6 - Your care,3 - Low
+5SD_0481,I'm concerned about the clinic's accessibility for people with disabilities.,6 - Your care,3 - Low
+5SD_0482,"The pharmacy changed their hours without notifying me, and I almost missed an appointment.",6 - Your care,3 - Low
+5SD_0483,I’m frustrated that I have to keep explaining my medical history to different healthcare providers.,6 - Your care,3 - Low
+5SD_0484,"The clinic doesn’t offer transportation assistance, making it difficult to attend appointments.",6 - Your care,3 - Low
+5SD_0485,"My last CD4 count was 350, and my viral load is still detectable, I'm really worried…",7 - Your health,2 - Medium
+5SD_0486,I’m pretty concerned as my viral load hasn’t been undetectable for a while now.,7 - Your health,2 - Medium
+5SD_0487,"I’m feeling really depressed, I don’t know if it’s related to my HIV status or the meds.",7 - Your health,1 - High
+5SD_0488,I’m worried about opportunistic infections as I feel like I’m always getting sick.,7 - Your health,1 - High
+5SD_0489,I noticed I'm bruising more easily than usual.,7 - Your health,3 - Low
+5SD_0490,"I had a really bad headache yesterday, and I'm wondering if it could be related to my medication.",5 - Your medication,2 - Medium
+5SD_0491,I'm feeling dizzy when I stand up quickly.,7 - Your health,3 - Low
+5SD_0492,"I'm having trouble sleeping, and I think it might be connected to my medication schedule.",5 - Your medication,2 - Medium
+5SD_0493,I keep getting these weird skin rashes - I don't know if it’s an allergic reaction or something else.,7 - Your health,3 - Low
+5SD_0494,"I'm experiencing some nausea, and it's making it hard to eat and I wonder if it’s a side effect.",5 - Your medication,2 - Medium
+5SD_0495,I’m having trouble with my vision. I wonder if it’s a side effect of the medication.,5 - Your medication,2 - Medium
+5SD_0496,I keep getting these strange mouth sores but I'm not sure what's causing them.,7 - Your health,3 - Low
+5SD_0497,My doctor wants me to start taking a calcium supplement but I’m not sure why.,7 - Your health,3 - Low
+5SD_0498,My doctor mentioned something about lipid levels but I’m not sure what that means.,7 - Your health,4 - None
+5SD_0499,"My doctor mentioned something about opportunistic infections, and I'm a bit scared about what that means.",7 - Your health,3 - Low
+5SD_0500,My latest blood work showed a slight decrease in my white blood cell count.,7 - Your health,3 - Low
+5SD_0501,My doctor said my kidney function needs to be checked more frequently and I'm a little nervous about it.,7 - Your health,3 - Low
+5SD_0502,I'm experiencing some shortness of breath. I'm worried it's a serious problem.,7 - Your health,1 - High
+5SD_0503,I'm having trouble with my balance and I'm worried about falling.,7 - Your health,3 - Low
+5SD_0504,My latest lab results showed a decrease in my red blood cell count.,7 - Your health,3 - Low
+5SD_0505,I keep getting these headaches… it's impacting my ability to work.,7 - Your health,3 - Low
+5SD_0506,"After a night of heavy drinking, I often skip my doses in the morning because I feel too hungover to think about it.",2 - Your habits and activities,1 - High
+5SD_0507,"My work involves a lot of travel, which always leads me to miss doses since I can't keep track of time zones and routines.",2 - Your habits and activities,1 - High
+5SD_0508,"I've noticed that when I’m not feeling well, like catching a cold, I sometimes skip doses because I feel too sick.",7 - Your health,2 - Medium
+5SD_0509,"When I'm out with friends, we tend to go for drinks and definitely I end up forgetting to take my meds until the next day.",2 - Your habits and activities,1 - High
+5SD_0510,"When I’m on call for work, the stress can disrupt my routine and lead me to miss doses more frequently.",2 - Your habits and activities,1 - High
+5SD_0511,"When I travel for work, maintaining my medication schedule becomes challenging due to time zone changes.",2 - Your habits and activities,2 - Medium
+5SD_0512,"During stressful times at work, my routine gets disrupted, making it harder for me to take my meds regularly.",2 - Your habits and activities,1 - High
+5SD_0513,"I try to take my meds consistently, but sometimes I lose track of time when I'm caught up with watching TV or playing video games.",2 - Your habits and activities,2 - Medium
+5SD_0514,"I smoke occasionally, and after a cigarette, I often forget if I've taken my medication or not.",2 - Your habits and activities,1 - High
+5SD_0515,"During family gatherings, the noise and chaos make it easy for me to miss a dose of medication.",2 - Your habits and activities,2 - Medium
+5SD_0516,"When I'm on vacation, the change in my daily schedule often leads me to forget a dose here and there.",2 - Your habits and activities,1 - High
+5SD_0517,I sometimes forget my medication when I'm binge-watching a new series because it's easy to lose track of time.,2 - Your habits and activities,2 - Medium
+5SD_0518,"I make a point of never missing a dose during the weekdays when I'm at home, but weekends can be unpredictable.",2 - Your habits and activities,2 - Medium
+5SD_0519,"I've started exercising regularly, but sometimes I skip my meds because I'm focused on getting to the gym on time.",2 - Your habits and activities,2 - Medium
+5SD_0520,"I try not to let my social life interfere with my health routine, but occasionally a night out leads to missed doses.",2 - Your habits and activities,2 - Medium
+5SD_0521,"I tend to be more relaxed on the weekends, which sometimes leads me to be late with my doses because I'm not as focused on timing.",2 - Your habits and activities,2 - Medium
+5SD_0522,"When I'm watching sports games, it's easy for me to lose track of time and miss a dose because I get caught up in the action.",2 - Your habits and activities,3 - Low
+5SD_0523,I usually forget to take my medication when I'm out and about during work hours because it doesn't fit into my schedule.,2 - Your habits and activities,1 - High
+5SD_0524,"On weekends, my schedule is more relaxed, so I always remember to take my medication, but during weekdays, it gets chaotic.",2 - Your habits and activities,2 - Medium
+5SD_0525,"I usually have a routine of taking my medication after breakfast, but when I skip meals, it becomes harder to remember.",2 - Your habits and activities,2 - Medium
+5SD_0526,"During the week, my schedule is packed with meetings, so sometimes I miss a dose because I'm running late.",2 - Your habits and activities,2 - Medium
+5SD_0527,"When I'm out late at night working on projects, it becomes difficult to maintain my regular medication schedule.",2 - Your habits and activities,2 - Medium
+5SD_0528,"When I'm at a conference for several days, it's easy to lose track of time zones and forget my medication schedule.",2 - Your habits and activities,2 - Medium
+5SD_0529,"I have set alarms on my phone to remind me, but sometimes those go off during important meetings or calls, making it hard for me to take them immediately.",2 - Your habits and activities,2 - Medium
+5SD_0530,"When I’m deeply engrossed in a project at work, the hours just fly by, and before I know it, it's time for my next dose, but usually a bit late.",2 - Your habits and activities,2 - Medium
+5SD_0531,I make sure to take my medication before any of my workouts since that's when I feel most consistent about it.,2 - Your habits and activities,4 - None
+5SD_0532,I've been trying to reduce caffeine consumption because it makes me jittery and I think that might be affecting how well I stick to my meds schedule.,2 - Your habits and activities,3 - Low
+5SD_0533,"I always keep a small pillbox in my bag so that no matter how hectic my day is, I have somewhere safe to store them until it's time to take them.",2 - Your habits and activities,4 - None
+5SD_0534,I always take my medication first thing in the morning after brushing my teeth so it's hardwired into my routine.,2 - Your habits and activities,4 - None
+5SD_0535,I always keep a bottle of water with me during the day so I remember to take my medication after drinking a glass.,2 - Your habits and activities,4 - None
+5SD_0536,I keep missing doses because the side effects are too strong – headaches and dizziness all day long!,5 - Your medication,1 - High
+5SD_0537,The side effects make me want to stop taking my medication... It's not worth it if I'm always feeling sick.,5 - Your medication,1 - High
+5SD_0538,I've stopped taking my medication for a few days because of severe nausea; it's just unbearable!,5 - Your medication,1 - High
+5SD_0539,I'm always running out of my meds because they're so expensive and I can't afford refills.,4 - Your econimic situation,1 - High
+5SD_0540,I've been missing doses constantly because the side effects make it hard to focus at work.,5 - Your medication,1 - High
+5SD_0541,I feel the need to stop taking my meds because they make me so tired and weak all day long.,5 - Your medication,1 - High
+5SD_0542,The side effects are so strong that they make me consider skipping doses.,5 - Your medication,2 - Medium
+5SD_0543,I often feel nauseous after taking my medication… sometimes it's so bad I skip the next dose to avoid it.,5 - Your medication,2 - Medium
+5SD_0544,I've been skipping doses because the side effects make me too ill to function properly during work hours.,5 - Your medication,1 - High
+5SD_0545,"The pill is so big and hard to swallow, I worry I might choke on it.",5 - Your medication,2 - Medium
+5SD_0546,"I feel fine and rarely miss doses, but the side effects are bothersome like dry mouth sometimes.",5 - Your medication,2 - Medium
+5SD_0547,"I think the medication is working, but sometimes the pills are so small and get mixed up with vitamins.",5 - Your medication,2 - Medium
+5SD_0548,"I'm not sure if this is related to the meds or something else, but I've been having trouble sleeping.",5 - Your medication,2 - Medium
+5SD_0549,"The pills are so hard that I sometimes grind them up, it makes them easier to take.",5 - Your medication,2 - Medium
+5SD_0550,"Even though I've taken the pill correctly, I still feel dizzy, is this normal?",5 - Your medication,2 - Medium
+5SD_0551,"Sometimes the medication makes me feel jittery, but it's not too bad, just a minor annoyance.",1 - Your thoughts and feelings,2 - Medium
+5SD_0552,"My medication leaves a bad taste in my mouth that lasts for hours, it's really unpleasant.",5 - Your medication,2 - Medium
+5SD_0553,"I've been experiencing some skin rashes since starting my new medication, but it doesn't stop me from taking it.",5 - Your medication,3 - Low
+5SD_0554,"I rarely miss doses, but the side effects like slight nausea can be annoying at times.",5 - Your medication,3 - Low
+5SD_0555,"The pills are hard, but chewing them helps. I'm not sure if that's a problem though.",5 - Your medication,2 - Medium
+5SD_0556,"Even though I take it with meals, sometimes I get a bit of an upset stomach after taking my medication.",5 - Your medication,2 - Medium
+5SD_0557,"The pills are so small that I keep losing them, especially when they're mixed with others in my organizer.",5 - Your medication,2 - Medium
+5SD_0558,"Sometimes I feel drowsy after taking my medication, but it's usually nothing major, just have to rest for a bit.",5 - Your medication,3 - Low
+5SD_0559,"The pill size is uncomfortable, and I often take it with extra water, but it's a minor hassle but doesn't stop me from taking it.",5 - Your medication,3 - Low
+5SD_0560,"I've been taking my HIV medication, but I can't stand the taste; it's making me nauseous every time.",5 - Your medication,2 - Medium
+5SD_0561,"The instructions on my medication say to take it with food, but I often forget when I'm stressed.",5 - Your medication,2 - Medium
+5SD_0562,"Sometimes I take my medication late because it makes me feel really tired - that's a problem, right?",5 - Your medication,2 - Medium
+5SD_0563,I often forget my medication because the label is confusing and not clear at all!,5 - Your medication,2 - Medium
+5SD_0564,"The instructions aren't clear on how often I should take this, sometimes I feel unsure and skip a dose.",5 - Your medication,2 - Medium
+5SD_0565,I feel like the medication is too expensive and sometimes wonder if it’s worth the cost.,4 - Your econimic situation,2 - Medium
+5SD_0566,"The pill has a very strong taste that makes me not want to take it sometimes, especially first thing in the morning.",5 - Your medication,2 - Medium
+5SD_0567,"I sometimes mix up my medication because the packaging looks similar to other pills I have, causing confusion and skipped doses.",5 - Your medication,2 - Medium
+5SD_0568,"I'm really frustrated because I had to wait over an hour at the clinic last week just to refill my medication, and they were out of stock.",6 - Your care,2 - Medium
+5SD_0569,I had a negative experience with a healthcare professional who seemed dismissive of my concerns about side effects.,6 - Your care,2 - Medium
+5SD_0570,"My insurance denied coverage for a medication I need, and it's been really hard to figure out how to pay for it.",4 - Your econimic situation,1 - High
+5SD_0571,"I experienced a delay in getting my medication due to an error with the pharmacy's inventory system, which was quite concerning.",6 - Your care,1 - High
+5SD_0572,I had an issue with a prescription error that was caught just in time before I took the wrong dosage.,6 - Your care,2 - Medium
+5SD_0573,"Sometimes the clinic's staff is not very friendly, which makes me hesitant to ask questions when I need clarification.",6 - Your care,3 - Low
+5SD_0574,"I had trouble understanding some of the medical jargon used by my doctor during our last visit, which left me confused about my treatment plan.",6 - Your care,2 - Medium
+5SD_0575,The clinic staff was very understanding when I explained my financial difficulties and helped me find a solution for my treatment costs.,4 - Your econimic situation,3 - Low
+5SD_0576,The clinic's online portal has made it much easier to communicate with my healthcare provider about any concerns I have.,6 - Your care,4 - None
+5SD_0577,The clinic staff went above and beyond to ensure I received my medication on time despite some logistical challenges.,6 - Your care,4 - None
+5SD_0578,"I had a minor misunderstanding with the pharmacy about the dosage of my medication, but it was quickly clarified.",6 - Your care,4 - None
+5SD_0579,The pharmacy staff was very accommodating when I needed to change my delivery schedule for medications.,6 - Your care,4 - None
+5SD_0580,"My pharmacy keeps billing me incorrectly for the same prescription every month, it's really stressing me out.",6 - Your care,3 - Low
+5SD_0581,"There was a mix-up at the clinic about my prescription refill date, but thankfully, it was resolved before I ran out of meds.",6 - Your care,3 - Low
+5SD_0582,"I often find it difficult to navigate the healthcare system, especially with all the paperwork involved.",6 - Your care,3 - Low
+5SD_0583,"I had to call multiple times to get a prescription refill approved, which is quite frustrating.",6 - Your care,2 - Medium
+5SD_0584,"I was given incorrect instructions about how to take my medication, but it was quickly corrected after I brought it up with my doctor.",6 - Your care,3 - Low
+5SD_0585,"I was informed about a change in my insurance policy that affects my coverage, but I haven't had any issues accessing my medication yet.",6 - Your care,3 - Low
+5SD_0586,"I had to switch to a new pharmacy, which caused some initial confusion with my prescription delivery schedule.",6 - Your care,2 - Medium
+5SD_0587,"I had an issue with a co-pay that wasn't processed correctly, and it took several calls to resolve.",6 - Your care,2 - Medium
+5SD_0588,"I had to switch insurance plans, and it was a hassle to get all the necessary authorizations for my current medications.",6 - Your care,2 - Medium
+5SD_0589,The pharmacist explained the side effects very clearly and it made me feel more at ease about taking my meds.,6 - Your care,4 - None
+5SD_0590,I missed an appointment because I didn't get a reminder from the clinic and it was really inconvenient to reschedule everything.,6 - Your care,3 - Low
+5SD_0591,"The clinic staff was very supportive when I had questions about my treatment plan, which helped me a lot.",6 - Your care,4 - None
+5SD_0592,The clinic's new appointment system is great :) It's so much easier to schedule visits now.,6 - Your care,4 - None
+5SD_0593,The pharmacy technician was very helpful in explaining the new dosage instructions for my medication.,6 - Your care,4 - None
+5SD_0594,The clinic's patient portal is very user-friendly and has made managing my appointments much easier.,6 - Your care,4 - None
+5SD_0595,The healthcare provider explained the importance of adherence in a way that really resonated with me and motivated me to stick to my regimen.,6 - Your care,4 - None
+5SD_0596,The clinic's new electronic records system has made it easier for me to track my appointments and medication history.,6 - Your care,4 - None
+5SD_0597,The healthcare provider was very empathetic and took the time to address all of my concerns about my treatment plan.,6 - Your care,4 - None
+5SD_0598,"The healthcare provider gave me clear instructions on managing side effects, which has made taking my medication much easier.",6 - Your care,4 - None
+5SD_0599,"My latest CD4 count was lower than expected, which worries me.",7 - Your health,2 - Medium
+5SD_0600,"My liver enzymes are elevated, which concerns me.",7 - Your health,3 - Low
+5SD_0601,My last lab results showed some concerns with my liver function.,7 - Your health,3 - Low
+5SD_0602,"My viral load has spiked recently, which is concerning.",7 - Your health,2 - Medium
+5SD_0603,I've been feeling some chest pain that I'm not sure about.,7 - Your health,3 - Low
+5SD_0604,I rarely get sick and my overall health feels stable.,7 - Your health,4 - None
+5SD_0605,My blood tests show my viral load is undetectable and I'm feeling great!,7 - Your health,4 - None
+5SD_0606,"My cholesterol levels are a bit high, according to my last check-up.",7 - Your health,3 - Low
+5SD_0607,I've had a few episodes of thrush recently and it's annoying.,7 - Your health,3 - Low
+5SD_0608,"My recent viral load test was perfect, no detectable virus!",7 - Your health,4 - None
+5SD_0609,"My blood sugar levels are normal, and my diabetes is well-controlled.",7 - Your health,3 - Low
+5SD_0610,I've been feeling dizzy and lightheaded occasionally.,7 - Your health,3 - Low
+5SD_0611,"My HIV symptoms have been well-managed, and I feel healthy overall.",7 - Your health,4 - None
+5SD_0612,I've been feeling great and my health seems stable.,7 - Your health,4 - None
+5SD_0613,I've been monitoring my blood sugar closely since it can be affected by HIV meds.,5 - Your medication,3 - Low
+5SD_0614,"My blood pressure has been consistently normal, which is a relief.",7 - Your health,4 - None
+5SD_0615,"My overall health is good, and I haven't noticed any new symptoms.",7 - Your health,4 - None
+5SD_0616,My latest lab results were reassuring and showed no major concerns.,7 - Your health,4 - None
+5SD_0617,My doctor said my immune system is responding well to treatment.,7 - Your health,4 - None
+5SD_0618,I've been feeling fatigued and noticed some weight loss recently.,7 - Your health,3 - Low
+5SD_0619,I've been experiencing some persistent headaches lately.,7 - Your health,3 - Low
+5SD_0620,"I've been having some digestive issues, but nothing too serious.",7 - Your health,3 - Low
+5SD_0621,I've noticed some skin rashes that I think might be related to HIV.,7 - Your health,2 - Medium
+5SD_0622,I've been dealing with some neuropathy in my feet.,7 - Your health,3 - Low
+5SD_0623,I've noticed some joint pain that seems to be getting worse.,7 - Your health,3 - Low
+5SD_0624,I've been experiencing some anxiety related to my health lately.,7 - Your health,3 - Low
+5SD_0625,"I've been feeling a bit under the weather, but nothing serious.",7 - Your health,4 - None
+5SD_0626,I've been dealing with some chronic coughing lately.,7 - Your health,3 - Low
+5SD_0627,I've had some unexpected bruising that seems unusual for me.,7 - Your health,3 - Low
+5SD_0628,I've been experiencing some gastrointestinal issues recently.,7 - Your health,3 - Low
+5SD_0629,"I had a flu-like illness last month, but it didn't seem related to HIV.",7 - Your health,3 - Low
+5SD_0630,"My doctor said my kidney function tests were slightly off, but I'm not too worried.",7 - Your health,3 - Low
+5SD_0631,I've been feeling really tired lately and don't know why.,7 - Your health,3 - Low
+5SD_0632,"My blood pressure is a bit high, but I'm managing it with diet and exercise.",7 - Your health,3 - Low
+5SD_0633,"I've been having trouble sleeping, but I think it's just stress.",7 - Your health,3 - Low
+5SD_0634,"My cholesterol levels are a concern, but I'm on medication for it.",7 - Your health,3 - Low
+5SD_0635,I've been skipping meals lately because I can't afford groceries. ,4 - Your econimic situation,1 - High
+5SD_0636,I've been partying a lot lately. It's tough to remember to take my pills when I'm out all night.,2 - Your habits and activities,1 - High
+5SD_0637,I missed a few doses last week because I ran out of medication. I need to call the pharmacy to refill my prescription.,6 - Your care,1 - High
+5SD_0638,"I've been struggling with feeling tired all the time and I wonder if it's because of the new medication, or if it's just life.",1 - Your thoughts and feelings,2 - Medium
+5SD_0639,"I've been feeling down lately, but I'm trying to stay motivated to take my medication as prescribed.",1 - Your thoughts and feelings,2 - Medium
+5SD_0640,"My partner has been really supportive, but my friends don't know about my HIV status. It makes me feel isolated sometimes.",3 - Your social situation,2 - Medium
+5SD_0641,"I've had a really busy week, so I've been forgetting to take my medication sometimes.",2 - Your habits and activities,2 - Medium
+5SD_0642,"I'm really stressed out about my work right now, but I know I need to take my medication every day.",2 - Your habits and activities,2 - Medium
+5SD_0643,I've been having trouble affording my HIV medication lately. ,4 - Your econimic situation,1 - High
+5SD_0644,"The pharmacy keeps running out of stock, and I can't afford to buy it from other places.",6 - Your care,1 - High
+5SD_0645,"I've been feeling sick lately and went for a check-up, turns out my HIV medication is causing these symptoms. ",7 - Your health,2 - Medium
+5SD_0646,"I had a bad experience at the clinic last week that the staff was rude, and I don't feel comfortable going back there anymore.",6 - Your care,2 - Medium
+5SD_0647,"I've been struggling financially, and it's hard to afford my HIV medication every month.",4 - Your econimic situation,1 - High
+5SD_0648,"I went to the pharmacy yesterday, but they were out of stock for my HIV medication.",6 - Your care,2 - Medium
+5SD_0649,"The nurse at the clinic was supposed to give me my meds yesterday, but she forgot and now I'm worried about missing a dose.",6 - Your care,1 - High
+5SD_0650,I feel like the healthcare professionals don't really understand what I'm going through and it makes me feel alone and unwilling to ask for help.,6 - Your care,2 - Medium
+5SD_0651,"I had a fight with my partner last night, and it's making me stressed about taking my medication on time.",3 - Your social situation,1 - High
+5SD_0652,I'm having trouble paying my rent this month and I don't know if I can afford my HIV medication too.,4 - Your econimic situation,1 - High
+5SD_0653,"My clinic is really far from my home, and it's hard for me to get there regularly.",6 - Your care,3 - Low
+5SD_0654,I've been taking my meds consistently for the past few weeks but I can't help but wonder if they're making me gain weight.,5 - Your medication,2 - Medium
+5SD_0655,"I've noticed a change in the color of my pills recently, I'm worried they might not be working properly.",5 - Your medication,2 - Medium
+5SD_0656,I think about stopping my medication because it makes me feel dizzy and tired all the time.,5 - Your medication,1 - High
+5SD_0657,"The pharmacy is not convenient for me because it's located far from my home, but they're open late on Fridays.",6 - Your care,3 - Low
+5SD_0658,I've been having trouble getting my HIV test results back on time because the lab is always busy.,6 - Your care,3 - Low
+5SD_0659,I've been feeling depressed lately and it's hard for me to remember to take my medication.,1 - Your thoughts and feelings,1 - High
+5SD_0660,I've been having trouble getting my medication at the pharmacy because it's closed on Sundays.,6 - Your care,2 - Medium
+5SD_0661,"My HIV test results came back positive, so I'm going to have to start taking some new medications every day.",1 - Your thoughts and feelings,2 - Medium
+5SD_0662,I've been feeling overwhelmed with all the paperwork from my clinic visits. ,6 - Your care,3 - Low
+5SD_0663,"I'm worried about the stigma associated with having HIV, it's hard for me to talk to people about my health.",3 - Your social situation,3 - Low
+5SD_0664,"I'm worried about the cost of my HIV medication, it's just too expensive for me right now.",4 - Your econimic situation,1 - High
+5SD_0665,I'm worried about the impact of HIV on my relationships and social life.,3 - Your social situation,2 - Medium
+5SD_0666,"My viral load is stable, but I've been noticing some hair loss since starting my meds.",7 - Your health,2 - Medium
+5SD_0667,I had trouble getting an appointment at my doctor's office and now I'm worried about running out of medication.,6 - Your care,1 - High
+5SD_0668,I had a misunderstanding with my pharmacist about the dosage of my HIV meds.,6 - Your care,2 - Medium
+5SD_0669,It's really frustrating trying to get in touch with my healthcare provider when I have questions or concerns.,6 - Your care,3 - Low
+5SD_0670,The clinic where I get my HIV care has a really long waiting list and it takes weeks to get an appointment.,6 - Your care,3 - Low
+5SD_0671,I had trouble getting the medication that I needed because of a mistake with my prescription.,6 - Your care,1 - High
+5SD_0672,I had trouble accessing the medication that I needed because of a problem with my insurance coverage.,6 - Your care,1 - High
+5SD_0673,I had trouble getting the medication that I needed because of a problem with the prescription itself.,6 - Your care,1 - High
+5SD_0674,I've been having trouble getting regular supplies of my HIV medication due to issues with the pharmacy and insurance.,6 - Your care,1 - High
+5SD_0675,"The cost of my HIV medication is quite high, but I make sure to prioritize it in my budget.",4 - Your econimic situation,3 - Low
+5SD_0676,"My doctor is really nice, but the wait times at the clinic can be really long.",6 - Your care,3 - Low
+5SD_0677,"My doctor is always on time, but the pharmacy takes forever to fill my prescription.",6 - Your care,2 - Medium
+5SD_0678,"My friends are all supportive of me taking my meds, but sometimes they ask me why I need to take them so often but I cant say nothing.",3 - Your social situation,2 - Medium
+5SD_0679,"I've been feeling really overwhelmed with my HIV diagnosis, and it's hard for me to stick to my regimen.",1 - Your thoughts and feelings,1 - High
+5SD_0680,"I've been experiencing some anxiety lately, and it's hard for me to focus on taking my meds.",1 - Your thoughts and feelings,2 - Medium
+5SD_0681,I'm feeling anxious about taking my meds every day.,1 - Your thoughts and feelings,1 - High
+5SD_0682,I'm worried about what my family will think if they find out I have HIV.,3 - Your social situation,2 - Medium
+5SD_0683,"Taking meds is a burden, but I try to stay positive.",1 - Your thoughts and feelings,2 - Medium
+5SD_0684,My doctor doesn't listen to me when I express concerns about my treatment plan.,6 - Your care,2 - Medium
+5SD_0685,I'm afraid that taking meds will make me sick or give me other health problems.,1 - Your thoughts and feelings,2 - Medium
+5SD_0686,"The thought of missing a pill is stressful, but I try to stay on top of things.",1 - Your thoughts and feelings,3 - Low
+5SD_0687,"I wish there was more support available for people living with HIV, especially when it comes to medication adherence",4 - Your econimic situation,2 - Medium
+5SD_0688,The thought of having to take meds forever is a burden I try to bear.,1 - Your thoughts and feelings,2 - Medium
+5SD_0689,The thought of taking meds is overwhelming at times.,1 - Your thoughts and feelings,2 - Medium
+5SD_0690,The thought of having to take meds for the rest of my life is depressing at times.,1 - Your thoughts and feelings,2 - Medium
+5SD_0691,"Sometimes, friends ask questions that make me uncomfortable, and I don't know how to respond without feeling judged.",3 - Your social situation,3 - Low
+5SD_0692,I avoid going out because people might stare or whisper when they see me taking medication in public.,3 - Your social situation,2 - Medium
+5SD_0693,"I've faced some discrimination at work after people found out about my condition, it's stressful and affects how often I take my meds",3 - Your social situation,1 - High
+5SD_0694,"I feel judged by some people in my community because of HIV, and it's discouraging at times.",3 - Your social situation,2 - Medium
+5SD_0695,"My family tries to help, but sometimes their overprotectiveness makes me feel like I'm not independent enough.",3 - Your social situation,3 - Low
+5SD_0696,It's been tough dealing with the stigma at my local clinic:((( I often leave feeling disheartened and skip doses.,3 - Your social situation,1 - High
+5SD_0697,Facing stigma from others makes me just want to stop sticking to my medication schedule consistently.,3 - Your social situation,1 - High
+5SD_0698,"There are times when I feel isolated because of the stigma associated with HIV, and it affects how often I take my meds.",3 - Your social situation,1 - High
+5SD_0699,"I sometimes feel like people judge me when they see me taking my medication, which discourages me from being open about it.",3 - Your social situation,2 - Medium
+5SD_0700,There are days when I avoid social situations because I'm worried about being judged for my condition.,3 - Your social situation,3 - Low
