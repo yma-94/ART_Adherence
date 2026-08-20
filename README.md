@@ -16,23 +16,15 @@ The study includes two sentence-level classification tasks:
 
 We compared fine-tuned general-domain and clinical language models with proprietary and open-source LLMs, and additionally evaluated model robustness to racial and gender descriptors and the environmental footprint of model development and inference.
 
-## Models
+## Demo
 
-The evaluated fine-tuned models include:
+An interactive demonstration of the triage model is available on Hugging Face Spaces:
 
-- BERT-base
-- BioBERT
-- BioClinicalBERT
-- Flan-T5-small
-- Flan-T5-base
-- Flan-T5-large
-- Flan-T5-xl
-- Clinical-T5-base
-- Clinical-T5-large
+**[MARVIN Triage Model Demo](https://huggingface.co/spaces/marvin-cusm-chatbot/triage-model)**
 
-The study also compares the best-performing fine-tuned models with GPT-family and other open-source LLMs using zero-shot and few-shot prompting.
+The demo allows users to enter example patient messages and explore model predictions for ART adherence barriers and nonadherence risk levels.
 
-## Data
+## Data and code
 
 This repository includes:
 
